@@ -1,0 +1,17 @@
+{
+  "projects": [
+    {
+      "id": "0a3fc166",
+      "name": "Fire Polishing",
+      "desc": "",
+      "color": "#6ee7b7",
+      "items": [
+        {
+          "name": "Amostra 1",
+          "path": "\"C:\\Users\\Administrador\\Documents\\Projetos\\Manchas no Fire Polishing\\Resultados MEV - IMT\\Amostra 01 - Contaminada\\Amostra B\\1000X.tif\"",
+          "type": "file"
+        }
+      ]
+    }
+  ]
+}
